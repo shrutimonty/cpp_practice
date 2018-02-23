@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516532558 source:c:\users\mahe\desktop\c++\sorting elements of an array by frequency\main.cpp
+	<iostream>
+	<algorithm>
+
